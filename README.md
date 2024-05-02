@@ -19,5 +19,4 @@ In both approaches, there are two implementations:
 
 Dependencies:
 
-- https://github.com/go-chi/chi
 - https://github.com/cristalhq/jwt
