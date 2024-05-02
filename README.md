@@ -1,5 +1,10 @@
 ## Auth Middleware
 
+TODO:
+
+- Implement a general Authenticate middleware for the second approach which checks the basic token claims. This will need to be cleared with remis, as I am not sure what checks he needs.
+- Fix the logic for AllowSelf on both stdlib and chi router implementations of the middleware.
+
 Purpose:
 This is a library implementing simple JWT-authentication middleware functions for Go microservice applications. It is part of my investigation in different approaches to implement such middleware.
 
